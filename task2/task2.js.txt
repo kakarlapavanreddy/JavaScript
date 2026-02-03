@@ -11,6 +11,7 @@ Submission Deadline: Tomorrow – End of Day (EOD)
 A) let userName = prompt("Enter your name:");
    alert("Hi"+userName+",Welcome to JavaScript Training.");
    console.log("Hi"+userName+",Welcome to JavaScript Training.");
+git config --global --unset credential.helper
 
 2. Console Methods Practice
 - Print 500 using console.log(), console.warn(), console.error().
